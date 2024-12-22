@@ -30,7 +30,7 @@
                         <a class="nav-link items " href="#">مبيعات </a>
                     </li>
                     <li class="nav-item ">
-                        <a class="nav-link  items" href="#"> احصائيات   </a>
+                        <a class="nav-link  items" href="./statistics.php"> احصائيات   </a>
                     </li>
 
                     <li class="nav-item ">
