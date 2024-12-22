@@ -1,0 +1,80 @@
+.logo{
+    align-content: center;
+    display:  flex;
+    min-width: 100%;
+    justify-content: center;
+
+}
+.header{
+    min-height: 10px;
+    background-color: #283843;
+}
+
+img{
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    box-shadow: black;
+    border-radius: 30px;
+}
+body{
+    background-color: #283843;
+}
+body .log{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #283843;
+    margin-top: 40px;
+}
+.log{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginheader{
+    text-align: center;
+    color: white;
+}
+.input-sec .input-item{
+width: 100%;
+height: 50px;
+padding: 0 25px;
+margin-bottom: 15px;
+border-radius: 30px;
+border:#00ADB5 solid 3px;
+transition: .3s;
+width: 250px;
+}
+::placeholder{
+    font-weight: bold;
+    color: black;
+}
+.input-sec :focus{
+    transform: scale(1.08,1);
+}
+
+.checkdiv{
+    color: white;
+    margin-bottom: 5px;
+}
+#check{
+    margin-right: 5px;
+    
+}
+.submit-btn{
+    width: 100%;
+    height: 50px;
+    background-color: #00ADB5;
+    border-radius: 30px;
+    border-color: white;
+    border: none ;
+    text-align: center;
+    color: white;
+}
+.submit-sec :hover{
+    width: 105%;
+transition: .3s;
+color: black;
+border: black;
+}
